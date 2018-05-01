@@ -3,11 +3,11 @@ A demo project that uses nasa data and python to find location of nearest meteor
 
 ##Running
 This code requires python3 and requests package.
-'python3 find_meteors.py'
+'python3 meteors/find_meteors.py'
 
 First install pipenv then
 '''
 pipenv install
-pipenv run "python find_meteors"
+pipenv run "python meteors/find_meteors"
 
 ''''
